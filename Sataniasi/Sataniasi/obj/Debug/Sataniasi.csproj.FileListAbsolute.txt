@@ -1,0 +1,7 @@
+c:\users\student\source\repos\Sataniasi\Sataniasi\bin\Debug\Sataniasi.exe.config
+c:\users\student\source\repos\Sataniasi\Sataniasi\bin\Debug\Sataniasi.exe
+c:\users\student\source\repos\Sataniasi\Sataniasi\bin\Debug\Sataniasi.pdb
+c:\users\student\source\repos\Sataniasi\Sataniasi\obj\Debug\Sataniasi.csprojResolveAssemblyReference.cache
+c:\users\student\source\repos\Sataniasi\Sataniasi\obj\Debug\Sataniasi.csproj.CoreCompileInputs.cache
+c:\users\student\source\repos\Sataniasi\Sataniasi\obj\Debug\Sataniasi.exe
+c:\users\student\source\repos\Sataniasi\Sataniasi\obj\Debug\Sataniasi.pdb
